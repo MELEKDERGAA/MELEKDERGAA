@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MELEKDERGAA
-- 👀 I’m interested in game dev/coding/robotics
-- 🌱 I’m currently learning c#,unity and also arduino
+- 👀 I’m interested in Game Development/Coding/CyberSecurity
+- 🌱 I’m currently learning Web Development
 - 
 
 <!---
